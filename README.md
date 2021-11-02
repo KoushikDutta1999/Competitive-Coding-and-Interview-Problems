@@ -19,9 +19,13 @@
 - Delete without head pointer
 - Find Transition Point
 
+### 4. Medium
+- Nuts and Bolts Problem
+
 ## Leet Code
 
 - Linked List Cycle II
 - Linked List Cycle
 - Middle of the Linked List
 - Peak Index in a Mountain Array
+- Valid Mountain Array
