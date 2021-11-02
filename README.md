@@ -25,7 +25,9 @@
 ## Leet Code
 
 - Linked List Cycle II
+- Find the Duplicate Number
 - Linked List Cycle
+- Merge Two Sorted Lists
 - Middle of the Linked List
 - Peak Index in a Mountain Array
 - Valid Mountain Array
