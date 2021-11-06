@@ -25,10 +25,12 @@
 
 ## Leet Code
 
+- Add Binary
 - Linked List Cycle II
 - Find the Duplicate Number
 - Linked List Cycle
 - Merge Two Sorted Lists
 - Middle of the Linked List
 - Peak Index in a Mountain Array
+- 3Sum
 - Valid Mountain Array
