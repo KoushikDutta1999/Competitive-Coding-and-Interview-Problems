@@ -6,12 +6,13 @@
 - The dice problem
 
 ### 2.Basic
+- Implement Stack using Linked List
+- Red OR Green
+- Binary Array Sorting
 - Play With OR
 - Count nodes of linked list
 - Check If Circular Linked List
 - Fighting the darkness
-- Implement Stack using Linked List
-- Red OR Green
 - Cyclically rotate an array by one
 
 ### 3.Easy
